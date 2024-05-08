@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devHeadset
+- 👀 I’m interested in Python (discord.py, and WM's) and Web Development
+- 🌱 I’m currently learning Python
+- 📫 You can reach me on discord (estrogenseller, and yes this is my real discord lol)
+- 😄 Pronouns: they/them
