@@ -1,5 +1,0 @@
-* 👋 Hello! 
-
-I'm Emi (she/her) - I'm a Dev & HS Student
-[[file:https://skillicons.dev/icons?i=c,html,linux,emacs,git,bash]]
-
