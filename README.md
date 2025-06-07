@@ -26,8 +26,9 @@ welcome to my github profile. i'm into linux, low-level programming, and buildin
 
 - linux & unix
 - nix/nixos
-- c, python
+- c, python, rust
 - gtk, terminal utilities
+- hyprland
 
 ## 📫 contact
 
