@@ -18,8 +18,8 @@ welcome to my github profile. i'm into linux, low-level programming, and buildin
   gtk frontend for swww  
   <sub>c</sub>
 
-- [**oub**](https://github.com/devHeadset/oub)  
-  osu! utility bot for discord  
+- [**oub**](https://github.com/GBStupid/GeekBot)  
+  a discord bot  
   <sub>python</sub>
 
 ## 🛠️ tech i use
