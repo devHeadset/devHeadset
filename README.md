@@ -32,7 +32,6 @@ welcome to my github profile. i'm into linux, low-level programming, and buildin
 ## 📫 contact
 
 - github: [@devheadset](https://github.com/devHeadset)
-
----
-
-<sub>only select projects shown. see more on my [github](https://github.com/devHeadset?tab=repositories).</sub>
+- discord: [headset.nix](https://discord.com/users/1155596999681384578)
+- bluesky [@devheadset.org](https://bsky.app/profile/devheadset.org)
+- email [headset@devheadset.org](mailto:headset@devheadset.org)
